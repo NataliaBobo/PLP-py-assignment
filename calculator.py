@@ -22,4 +22,5 @@ elif operator == '/':
     result = num1/num2
     print(result)
 
-else: print("Invalid operator! Please enter +,-,*,/")    
+else:
+     print("Invalid operator! Please enter +,-,*,/")    
